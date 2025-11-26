@@ -1,4 +1,4 @@
-# 📌 Project 10: Utility Library (OOP)
+# 📌 Project 8: Utility Library (OOP)
 
 ## 🔹 Overview
 
@@ -21,7 +21,7 @@ The main idea is to build a **Utility Library** as a single class `clsUtil`, whe
 
 ## 📂 Project Structure
 
-📁 Project-11-Utility-Library-OOP
+📁 Project-8-Utility-Library-OOP
 
 * clsUtil.h   # Header file containing the clsUtil class and all static methods
 * clsDate.h   # Date helper class (used in Swap method)
